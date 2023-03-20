@@ -1,6 +1,6 @@
 # Machine_Learning_Project-Fall_2022-Autism_Detection
 
-The image dataset used for training and testing is too big and simply cannot be uploaded here. You can download this dataset from this link: https://drive.google.com/drive/folders/1XQU0pluL0m3TIlXqntano12d68peMb8A?usp=sharing
+The size of image dataset used for training and testing is too big and simply cannot be uploaded here. You can download this dataset from this link: https://drive.google.com/drive/folders/1XQU0pluL0m3TIlXqntano12d68peMb8A?usp=sharing
 
 Since the SVM model.p file is too big, we cannot upload it to GitHub
 
